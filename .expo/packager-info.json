@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 5528,
+  "expoServerNgrokUrl": "https://ha-n8i.anonymous.jobs.exp.direct",
+  "packagerNgrokUrl": "https://packager.ha-n8i.anonymous.jobs.exp.direct",
+  "ngrokPid": 12392,
+  "webpackServerPort": null
+}
